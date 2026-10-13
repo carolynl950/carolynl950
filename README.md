@@ -2,7 +2,7 @@
 
 Hi! I'm a student at Columbia Engineering studying computer science and applied math. I love building things people can use in their lives, learning from the process of making, and sharing what I learn with others.
 
-I'm especially interested in **systems programming**, **building high-performance software**, and using creativity to solve fun, complex problems! Outside of school, I enjoy weightlifting, Pilates, photography, and exploring the city.
+I'm especially interested in systems programming, building high-performance software, and using creativity to solve fun, complex problems! Outside of school, I enjoy weightlifting, photography, and exploring the city.
 
 ---
 
@@ -88,7 +88,7 @@ I'm especially interested in **systems programming**, **building high-performanc
 
 #### Elsewhere
 
-DevFest committee @ Application Development Initiative · WiCS logistics, hosting DivHacks · Columbia Competitive Programming
+DevFest committee @ Application Development Initiative · Logistics @ WiCS · Columbia Competitive Programming @ ICPC Club
 
 ---
 
