@@ -93,8 +93,8 @@ DevFest committee @ Application Development Initiative · WiCS logistics, hostin
 ---
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&hide_title=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=carolynl950&show_icons=true&hide_border=true&hide_title=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolynl950&layout=compact&hide_border=true" />
 </p>
 
 [LinkedIn](https://linkedin.com/in/carolynl950) · [Email](mailto:yyl2127@columbia.edu)
